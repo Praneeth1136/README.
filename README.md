@@ -22,5 +22,5 @@ AI Connect – Centralized hub of 30+ AI tools to boost productivity and streaml
 I am currently strengthening my skills in DSA with Java, building scalable full-stack projects, and exploring AI-driven web applications for automation and productivity.
 
 Portfolio: [https://portfolioo-one-fawn.vercel.app/]
-LinkedIn: [PRANEETH.]
+LinkedIn: [https://www.linkedin.com/in/praneeth-986bab325/]
 Email: [praneethkilaparthi@gmail.com]
