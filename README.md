@@ -5,7 +5,7 @@ Tech Stack
 
 Languages: Java, Python, JavaScript, C
 
-Web Development: HTML, CSS, Bootstrap, ReactJS, Node.js, APIs
+Web Development: HTML, CSS, Bootstrap, ReactJS, Node.js, APIs, Raect native
 
 Core CS: Data Structures & Algorithms, DBMS, Operating Systems, OOP
 
