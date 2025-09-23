@@ -2,7 +2,6 @@
 Hi, I’m Praneeth. I’m an aspiring software engineer and full-stack web developer who enjoys solving problems and building useful digital solutions. I focus on creating projects that combine web development, AI integration, and system design to make technology practical and user-friendly.
 
 Tech Stack
-
 Languages: Java, Python, JavaScript, C
 
 Web Development: HTML, CSS, Bootstrap, ReactJS, Node.js, APIs, Raect native
