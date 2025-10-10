@@ -10,7 +10,7 @@ Core CS: Data Structures & Algorithms, DBMS, Operating Systems, OOP
 
 Tools & Platforms: Git/GitHub, Vercel, VS Code
 
-Featured Projects
+Featured Projects 
 
 Smart Code Base – AI-powered search engine with GitHub API sync for smarter repository management
 
